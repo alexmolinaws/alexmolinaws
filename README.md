@@ -1,0 +1,7 @@
+Welcome to my profile! I'm a web designer, developer and freelancer from Latin America.
+
+- I'm Alex Molina, the user @molinalex13 on here and a huge fan of online self-improvement and open-source software, with 4 years of experience working with websites development in the most popular CMSs and also 5 years of experience at design positions. I'm also working on my own stuff (apps and projects) and cooperative projects as well.
+- I’m interested in improving my skills and being up-to-date with technologies so that I can continue working and supporting what I love and that is languages, production and software development (of course). I want to be free to work and colaborate on any project I can imagine and provide ways to artists and entrepreneurs to achieve their dreams. But the chance to dream, and freedom, are needed to be conquered first!
+- I’m currently learning frontend development and trying new stuff like versatile frameworks, experimental software, AI and how to reach other areas to carry out full projects by myself, but even if that sounds selfish it's actually the opposite since that makes you able to colaborate in many more different ways!
+- I’m looking to collaborate on open-source apps that use web technology and also companies that have a great service to help the World with. My motto is to work on things with the LARC philosophy (love, art, revolution and care), which helps society and the planet as a whole.
+- You can get in touch with me thru my website alexmolina.click or my social media on my profile. Thanks for reading!
