@@ -10,13 +10,13 @@ Well, I've been in charge of the wireframing, UX/UI design, development, deploym
 
 ## Nobody's perfect though
 
-I'm a competitive perfectionist, constantly looking for ways to do the exact same work, but better :sweat_smile: and that can be annoying for some (if not for you tho, check my contact links below). Another of my cons is that I'm so professional that I'm not the right person for debating on politics or cult films at work, but I can provide advice regarding the software instead, without criticizing the client or my team mates. That's also why people perceive my development and software architecture operations "a bit too objective" :pencil: but we can try making business if you don't mind all that (again, links below :link:).
+I'm a competitive perfectionist, constantly looking for ways to do the exact same work, but better :sweat_smile: and that can be annoying for some (if not for you tho, check my links below). Another of my cons is that I'm too professional for debating on politics or cult films at work, but I can provide advice regarding the software instead, tho I won't criticize the client. That's also why people perceive my software architecture operations "a bit too objective" :pencil: but if you don't mind all that, check my links below :link:.
 
 ### _"Trust over trends"_ is my stack
 
 The stack I build web applications with, consist of some of the most stablished, versatile and consistent technologies in the Industry:  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)   
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)   
 
 ### But my toolbox has more room
 
