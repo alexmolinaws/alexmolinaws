@@ -10,19 +10,25 @@ Well, I've been in charge of the wireframing, UX/UI design, development, deploym
 
 ## Nobody's perfect though
 
-I'm a perfectionist, quite competitive, and constantly looking for ways to do the exact same work, but better :sweat_smile: and that can be annoying for some (if not for you tho, check my contact links below :point_down:). Another of my cons is that I'm so professional that I'm not the right person for debating on politics or cult films at work, tho I can provide advice regarding the software instead, without criticizing the client or any ideas of them. That's also why people perceive my development and software architecture operations "a bit too objective" :pencil: but we can try making business if you don't mind all that (again, links below).
+I'm a competitive perfectionist, constantly looking for ways to do the exact same work, but better :sweat_smile: and that can be annoying for some (if not for you tho, check my contact links below). Another of my cons is that I'm so professional that I'm not the right person for debating on politics or cult films at work, but I can provide advice regarding the software instead, without criticizing the client or my team mates. That's also why people perceive my development and software architecture operations "a bit too objective" :pencil: but we can try making business if you don't mind all that (again, links below :link:).
 
-The tools I work with the most on a daily basis:  
+### _"Trust over trends"_ is my stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+The stack I build web applications with, consist of some of the most stablished, versatile and consistent technologies in the Industry:  
 
-Languages and stacks I develop apps with:  
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)   
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+### But my toolbox has more room
 
-My motto is to work on projects that are compatible with the LARC philosophy (Love, Art, Revolution and Care), which are the ones that in my opinion can help humankind and the planet as a whole. Thanks for willing to know me better, I invite you to check out the projects I've built on my portfolio and, if you're interested in working with me, feel free to drop some lines thru either my personal website, my email, or social media links:
+I keep my workflow simple yet powerful thanks to robust software that I use on a daily basis to do my magic with no excuses:  
 
-## Contact Links 
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)  
+
+
+
+## Contact Links
+
+So you're interested in collaborating, awesome. No matter if you're visual, formal or straightforward, here you got all the links where to find info and quality proof of my services :point_down: I'll be happy to read about your project and work methodology. 
 
 :globe_with_meridians: Check my website: https://alexmolinaws.com/  
 :clipboard: LinkedIn: https://linkedin.com/in/alexmolinaws/   
