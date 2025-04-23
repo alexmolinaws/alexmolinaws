@@ -10,7 +10,7 @@ Well, I've been in charge of the wireframing, UX/UI design, development, deploym
 
 ## Nobody's perfect though
 
-I'm a competitive perfectionist, constantly looking for ways to do the exact same work, but better :sweat_smile: and that can be annoying for some (if not for you tho, check my links below). Another of my cons is that I'm too professional for debating on politics or cult films at work, but I can provide advice regarding the software instead, tho I won't criticize the client. That's also why people perceive my software architecture operations "a bit too objective" :pencil: but if you don't mind all that, check my links below :link:.
+I'm a competitive perfectionist, constantly looking for ways to do the exact same work, but better :sweat_smile: and that can be annoying for some (if not for you tho, check my links below). Another of my cons is that I'm maybe too professional for debating on politics or cult films at work, but I can provide advice regarding the software instead, tho I won't criticize the client. That's also why people perceive my software architecture operations "too objective" :pencil: but if you don't mind all that, check those links below 😉.
 
 ### _"Trust over trends"_ is my stack
 
