@@ -6,11 +6,11 @@ As a fan of e-learning, FOSS, and the evolution of Internet, such a mix couldn't
 
 ### _"Wait, how's that not average?"_
 
-Well, I've been in charge of the wireframing, UX/UI design, development, deployment and maintenance for most of those projects, delivering the final product and assessment in a timely manner without many changes or any cultural friction (I not only speak English, Spanish and Portuguese, but also am probably the most open-minded person you'd talk to). All that just boosts my skills and sales :sunglasses:
+Well, I've been in charge of the wireframing, UX/UI design, development, deployment and maintenance for most of those projects, delivering the final product and assessment in a timely manner without many changes or any cultural friction (I not only speak English, Spanish and Portuguese, but also am probably the most open-minded person you'd ever talk to). All of this just boosts my communication and sales :grin:
 
 ## Nobody's perfect though
 
-I'm a competitive perfectionist, constantly looking for ways to do the exact same work, but better :sweat_smile: and that can be annoying for some (if not for you tho, check my links below). Another of my cons is that I'm maybe too professional for debating on politics or cult films at work, but I can provide advice regarding the software instead, tho I won't criticize the client. That's also why people perceive my software architecture operations "too objective" :pencil: but if you don't mind all that, check those links below 😉.
+I'm a competitive perfectionist, constantly looking for ways to do the exact same work, but better :sweat_smile: and that can be annoying for some (if not for you tho, check my links below). Another of my cons is that I'm maybe too professional for debating on politics or cult films at work, but I can provide advice regarding the software instead, although I won't criticize the client's view (a reason why others may perceive my software architecture operations "too objective" :pencil:). If you still don't mind all that, check below those links I mentioned 😉.
 
 ### _"Trust over trends"_ is my stack
 
@@ -28,7 +28,7 @@ I keep my workflow simple yet powerful thanks to robust software that I use on a
 
 ## Contact Links
 
-So you're interested in collaborating, awesome. No matter if you're visual, formal or straightforward, here you got all the links where to find info and quality proof of my services :point_down: I'll be happy to read about your project and work methodology. 
+So you're interested in collaborating, awesome! No matter if you're visual, formal or straightforward, here you got all the links where to find info and quality proof of my services :point_down: I'll be happy to read about your project or professional proposal. 
 
 :globe_with_meridians: Check my website: https://alexmolinaws.com/  
 :clipboard: LinkedIn: https://linkedin.com/in/alexmolinaws/   
