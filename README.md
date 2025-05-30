@@ -1,16 +1,16 @@
-# :wave: Welcome! I'm Alex Molina.
+# :wave: Hello! I'm Alex Molina.
 
 Yeh I know, my name is kind of regular yet I'm not an average developer.
 
-As a fan of e-learning, FOSS, and the evolution of Internet, such a mix couldn't produce something rather than a web developer I think; one who loves bringing great user interfaces to life that run clean, efficient code under the hood. That's a profile I've been sharpening for 8 years :muscle: by working on projects for clients all around the globe :earth_americas: from WordPress sites to custom e-commerce applications. 
+I'm a fan of e-learning, FOSS, and the evolution of Internet, which is why I develop websites and applications, bringing great user interfaces to life that run clean, efficient code under the hood. That's a profile I've been sharpening for over 6 years :muscle: working for clients all around the globe :earth_americas: from WordPress sites to online stores. 
 
 ### _"Wait, how's that not average?"_
 
-Well, I've been in charge of the wireframing, UX/UI design, development, deployment and maintenance for most of those projects, delivering the final product and assessment in a timely manner without many changes or any cultural friction (I not only speak English, Spanish and Portuguese, but also am probably the most open-minded person you'll talk to). All of this just boosts my communication and sales :grin:.
+Well, I've been in charge of the wireframing, UX/UI design, development, deployment and maintenance for most of those projects, delivering the final product and assessment in a timely manner. I speak English, Spanish and Portuguese, and also be probably the most open-minded person you'd talk to. All that just boosts my communication and sales :grin:.
 
 ## Nobody's perfect though
 
-I'm a competitive perfectionist, constantly looking for ways to do the exact same work, but better :sweat_smile: and that can be annoying for some (if not for you tho, check my links below). Another of my cons is that I'm maybe too professional for debating on politics or cult films at work, but I can provide advice regarding the software instead, although I won't criticize the client's view (a reason why others may perceive my software architecture operations "too objective" :pencil:). If you still don't mind all that, check below those links I already mentioned :wink:.
+I'm a competitive perfectionist, constantly looking for ways to improve :sweat_smile: and that can be annoying for some (if not for you tho, check my links below). Another con is that I'm too professional for debating on politics or cult films at work, but I can provide advice regarding the software instead (a reason why others say my software architecture operations are "too objective" :pencil:). If you still don't mind all that, check below those links I already mentioned :wink:.
 
 ### _"Trust over trends"_ is my stack
 
