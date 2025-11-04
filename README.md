@@ -27,8 +27,6 @@ I'm a competitive perfectionist, constantly looking for ways to improve :sweat_s
 
 ## Contact Links
 
-So you're interested in collaborating, awesome! No matter if you're visual, formal or straightforward, here you got all the links where to find info and quality proof of my services :point_down: I'll be happy to read about your project or professional proposal. 
+So you're interested in collaborating, awesome! No matter if you're visual, formal or straightforward, below there will be all the links where to find info and contact channels about my services :point_down: I'll be happy to read from you. 
 
-:globe_with_meridians: Check my website: https://alexmolinaws.com/  
-:clipboard: LinkedIn: https://linkedin.com/in/alexmolinaws/   
-:envelope: Send an email: alexmolina.dm@gmail.com
+:envelope: Send me an email! alexmolina.dm@gmail.com
